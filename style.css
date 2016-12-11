@@ -16,6 +16,10 @@ nav ul li a{
     font-weight: bold;
 }
 
+nav ul li a.selected{
+    color:#000;
+}
+
 header{
     background-image: url("bg2.jpg");
     background-position: center center;
@@ -24,6 +28,9 @@ header{
     padding-bottom:5px;
 }
 
+h1{
+    text-align: center;
+}
 #picture {
   text-align: center;
 }
