@@ -51,3 +51,14 @@ footer {
   background-color: #C1B5BB;
   color: #666;
 }
+
+
+div ul li {
+    display: inline-block;
+    text-align: center;
+}
+
+footer div.container{
+    font-size: 20px;
+
+}
