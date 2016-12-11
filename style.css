@@ -16,6 +16,38 @@ nav ul li a{
     font-weight: bold;
 }
 
-nav ul li a.selected{
-    color:blue;
+header{
+    background-image: url("bg2.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom:5px;
+}
+
+#picture {
+  text-align: center;
+}
+
+#picture img {
+    max-width:200px;
+    border:5px solid #fff;
+    border-radius:100%;
+}
+
+#picture h1{
+    color:#fff;
+    font-family: cursive;
+    text-shadow: 1px 1px 0px #000;
+}
+
+div.container {
+  text-align: center;
+}
+
+footer {
+  padding: 20px 0;
+  font-size: 93%;
+  text-align: center;
+  background-color: #C1B5BB;
+  color: #666;
 }
